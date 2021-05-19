@@ -1,0 +1,40 @@
+.section1container{
+  background-image: url("../img/Rectangle.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.section1 {
+  display: flex;
+  flex-direction: column;
+ align-items:center;
+ justify-content: center;
+
+ padding: 300px;
+}
+.section1-title{
+  font-size: 35px;
+  align-items: center;
+  color: #ffffff;
+
+}
+.section1-content{
+ 
+  color:#ffffff;
+  font-size: 17px;
+}
+
+
+.section1-btn {
+  cursor: pointer;
+  font-size: 12px;
+  width: 150px;
+  height: 50px;
+  background-color: transparent;
+  color: #ffffff;
+
+  outline: none;
+}
+
+
+
