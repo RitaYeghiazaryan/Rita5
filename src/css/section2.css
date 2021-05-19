@@ -1,0 +1,23 @@
+.section2{
+    display: flex;
+    margin-top: 15px;
+    justify-content: space-between;
+
+}
+span{
+    position: relative;
+}
+.supplement{
+    position: absolute;
+    bottom:95px;
+    left:360px;
+    color:white;
+    
+}
+.laser{
+    position: absolute;
+    bottom:95px;
+    left:360px;
+    color:white;
+
+}
