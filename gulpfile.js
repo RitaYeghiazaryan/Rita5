@@ -29,7 +29,7 @@ gulp.task("minify", () => {
 gulp.task("cssconcat", function () {
   return gulp
     .src("src/css/**/*.css")
-    .pipe(concat("main.css"))
+    .pipe(concat("style.css"))
     .pipe(gulp.dest("./public/css"));
 });
 // css compess
